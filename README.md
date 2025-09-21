@@ -111,7 +111,7 @@ Este projeto tem como objetivo implementar um sistema completo para gerenciar o 
 
 ```bash
 # Clone o repositório
-git clone (https://github.com/KiraYagamiDark/TPSistemasDistribuidos.git
+git clone (gh repo clone KiraYagamiDark/TPSistemasDistribuidos
 cd seu-repo
 
 # Crie um ambiente virtual

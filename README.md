@@ -111,8 +111,9 @@ Este projeto tem como objetivo implementar um sistema completo para gerenciar o 
 
 ```bash
 # Clone o repositório
+gh auth login
 gh repo clone KiraYagamiDark/TPSistemasDistribuidos
-cd seu-repo
+cd TPSistemasDistribuidos
 
 # Crie um ambiente virtual
 python -m venv venv
